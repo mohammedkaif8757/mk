@@ -1,2 +1,4 @@
 # mk
-this is my first repository.
+It is my first repository.
+Author name : Mohammed Kaif
+email id : mohammedkaif50711@gamil.com
